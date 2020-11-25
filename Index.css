@@ -1,0 +1,82 @@
+.carouselslide {
+  max-width: 60%;
+  max-height: 50%;
+  position: absolute;
+  right: 20vw;
+  top: 22vh;
+  border-color: tomato;
+}
+
+.base > h1 {
+  display: flex;
+  justify-content: center;
+  font: normal 40pt sansita swashed;
+  color: #52057b;
+
+  text-shadow: rgba(0, 0, 0, 0.589) 2px 2px 2px;
+}
+.base > h2 {
+  display: flex;
+  justify-content: center;
+  font: normal 20pt sansita swashed;
+  color: #892cdc;
+
+  text-shadow: rgba(0, 0, 0, 0.589) 2px 2px 2px;
+}
+.nav-link {
+  color: #52057b;
+}
+.navbar.navbar-expand-lg.navbar-violet.bg-violet {
+  color: #892cdc;
+}
+.navbar-toggler {
+  background-color: #52057b;
+}
+.jumbotron {
+  max-width: 60%;
+  max-height: 70%;
+  justify-content: center;
+  position: absolute;
+  right: 20vw;
+  top: 110vh;
+  font: normal 20pt roboto;
+}
+.btn.btn-primary.btn-lg {
+  background: #52057b;
+}
+.page-footer.font-small.blue {
+  justify-content: end;
+  position: absolute;
+  top: 200vh;
+  background-color: #892cdc;
+  width: 201.3vh;
+}
+.texto >h1{
+  position: relative;
+  top:150vh;
+  right: 0vh;
+  display: flex;
+  justify-content: center;
+  font: normal 40pt sansita swashed;
+  color: #52057b;
+
+  text-shadow: rgba(0, 0, 0, 0.589) 2px 2px 2px;
+}
+
+.texto >h2{
+  position: relative;
+  top:150vh;
+  right: 0vh;
+  display: flex;
+  justify-content: center;
+  font: normal 20pt sansita swashed;
+  color: #52057b;
+
+  text-shadow: rgba(0, 0, 0, 0.589) 2px 2px 2px;
+
+}
+.btn.btn-secondary.btn-lg.active{
+position:relative;
+top: 170vh;
+left:95vh;
+}

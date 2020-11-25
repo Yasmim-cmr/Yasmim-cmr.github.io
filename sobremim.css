@@ -1,0 +1,96 @@
+.apresentacao> h1{
+    position: relative;
+    top:10vh;
+    right: 0vh;
+    
+    justify-content: center;
+    font: normal 20pt sansita swashed;
+    color: #76309c;
+  
+    text-shadow: rgba(0, 0, 0, 0.589) 2px 2px 2px;
+    position: relative;
+    text-align: justify;
+
+}
+.apresentacao{
+    flex-direction: column;
+    width: 50%;
+    position: relative;
+    left: 50vh;
+    justify-content: center;
+}
+
+
+
+  .imagem{
+      height: 50%;;
+      width: 50%;
+      position: relative;
+      left:36vh;
+      top:3vh;
+  }
+  .gostos{
+    width: 70%;
+    position: relative;
+    left:10vh;
+      
+  }
+  .gostos>h1{
+    position: relative;
+    top:10vh;
+    left:0vh;
+    flex-direction: column;
+    justify-content: center;
+    font: normal 40pt sansita swashed;
+    color: #7f0dbd;
+  
+    text-shadow: rgba(0, 0, 0, 0.589) 2px 2px 2px;
+    position: relative;
+    text-align: justify;  
+  }
+.gostos >h2{
+    position: relative;
+    top:10vh;
+    right: 0vh;
+    flex-direction: column;
+    justify-content: center;
+    font: normal 20pt Roboto;
+    color: #76309c;
+  
+    text-shadow: rgba(0, 0, 0, 0.589) 2px 2px 2px;
+    position: relative;
+    text-align: justify;
+}
+.cards1{
+
+display: inline-flex;
+position: relative;
+left: 50vh;
+top: 10vh;
+margin: 2%;
+left:10vh;
+
+}
+
+.cards2{
+
+ 
+
+   
+display: inline-flex;
+position: relative;
+left: 50vh;
+top: 10vh;
+margin: 2%;
+left:10vh;
+
+}
+.page-footer.font-small.blue {
+    justify-content: end;
+    position: absolute;
+    top: 200vh;
+    background-color: #892cdc;
+    width: 214.5vh;
+  }
+
+
